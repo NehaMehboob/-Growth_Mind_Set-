@@ -22,7 +22,7 @@ st.markdown(
  )
 
 
-st.title("💢💥Datasweeper sterling Integer By Azeezullah_Noohpoto💞")
+st.title("💢💥Datasweeper sterling Integer By Neha_Mehboob💞")
 st.write("Transform your files between CVS and Excel formats with built in data cleaning and visualization Creating the project for Quarter 03 ")
 
 uploaded_files = st.file_uploader("Upload your files (accepts CSV or Excel)", type=["csv", "xlsx"], accept_multiple_files=True)
